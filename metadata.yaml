@@ -1,0 +1,38 @@
+_repo: A-brazileira-de-Prazins-scenas-do-Minho_68905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Branco, Camilo Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2022-09-04'
+identifiers:
+  gutenberg: '68905'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/012510138
+pgterms:marc905: 20220804083110branco
+pgterms:marc906: '1890'
+pgterms:marc907: PT
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: Portugal :Livraria Lélo, limitada,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A brazileira de Prazins: scenas do Minho.'
+url: http://www.gutenberg.org/ebooks/68905
