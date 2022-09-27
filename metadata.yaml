@@ -1,5 +1,8 @@
 _repo: A-brazileira-de-Prazins-scenas-do-Minho_68905
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68905-h/images/inner_cover.jpg
 creator:
   author:
     agent_name: Castelo Branco, Camilo
@@ -18,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68905#A-brazileira-de-Prazins-scenas-do-Minho
 gutenberg_issued: '2022-09-04'
 identifiers:
   gutenberg: '68905'
